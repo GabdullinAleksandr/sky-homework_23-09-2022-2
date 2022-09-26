@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+*
+.idea
+.mypy_cache
+pyvenv.cfg
+Lib
+Scripts
+/isa-func-source/
